@@ -7,5 +7,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=heymundomx&title=Joined2020,Experience,Repositories,Commits&column=4&margin-w=20&theme=darkhub" />
 
 ## 🛠️ **Programming Languages:**
+<p align="center"> <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=121212" />
+<p align="center"> <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=java&logoColor=white&color=121212" />
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=121212)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=java&logoColor=white&color=121212)
